@@ -20,8 +20,6 @@ import android.os.Bundle;
 
 import com.cyanogenmod.settings.device.utils.NodePreferenceActivity;
 
-import org.cyanogenmod.internal.util.ScreenType;
-
 public class ButtonSettings extends NodePreferenceActivity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
