@@ -27,8 +27,7 @@ import android.view.MenuItem;
 
 import java.io.File;
 
-import org.cyanogenmod.internal.util.FileUtils;
-import org.cyanogenmod.internal.util.ScreenType;
+// import com.cyanogenmod.internal.util.FileUtils;
 
 public class NodePreferenceActivity extends PreferenceActivity
         implements OnPreferenceChangeListener {
